@@ -4,4 +4,4 @@ api цитат с возможностями авторизоваться и л�
 auth/
 api/quotes/
 api/quotes/<str:pk>
-api/categories/
+api/categories/ 
