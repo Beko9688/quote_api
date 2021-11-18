@@ -8,4 +8,4 @@ api/quotes/
 
 api/quotes/<str:pk>
 
-api/categories/'
+api/categories/
